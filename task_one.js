@@ -35,7 +35,8 @@ const students = [
 // Bonus: Sort the students by their grade in descending order into a new array and print the new array to the console. (Hint: Use the sort method)
 
 // Write your code here
-
+//hello
+const num = 5
 function grades(score){
   if(score <50) return 'F';
   if(score >=50&& score<60) return 'D';
